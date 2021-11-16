@@ -1,16 +1,26 @@
-<h2 align="center"> Hi 👋 , I'm Skyline <br/></h2> 
+<h3 align="left"> Hello there  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h3> 
+<h2 align="left"> I'm Skyline. <br/></h2> 
 <div align = "left">
-  <p><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><!--<img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105"><img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105">--></p>
+<h3> 💻 &nbsp;About Me </h3>
+  <img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <h4>- 🤔 &nbsp; I am a programmer, that has a lot of knowledge in Python, Javascript and C#.</h4>
+  <h4>- 🎓 &nbsp; Learning by myself. In the future, i will study Computer Science.</h4>
+  <br>
+<h3> 🔥 &nbsp;Currently working on </h3>
+  <h4> -🟪 Skyline's Selfbot (for Discord) </h4>
+  <h4> - 🤫 Secret Projects </h4>
 </div>
-
-<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyline69&hide=contribs,prs,stars,starsshow_icons=true&theme=midnight-purple)
 <br>
+<img align="right" width=500 src="https://github-readme-stats.vercel.app/api?username=skyline69&hide=contribs,prs,stars,starsshow_icons=true&theme=midnight-purple"   alt="Skyline69">
+<br><br><br><br><br><br><br>
+<img align="right" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyline69&count_private=true&theme=midnight-purple" alt="Skyline69" />
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <a href="https://www.instagram.com/skyline.rno263/">
-  <img align="left" alt="Skyline's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
+  <img align="right" alt="Skyline's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
 </a>
 <a href="https://twitter.com/jo3mxma">
-  <img align="left" alt="Skyline's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
+  <img align="right" alt="Skyline's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
 </a>
 <br>
-<br><img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyline69&count_private=true&theme=radical" alt="Skyline69" /></br>
+<br></br>
 <br>
