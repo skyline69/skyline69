@@ -1,4 +1,7 @@
 <h2 align="center"> Hi 👋 , I'm Skyline <br/></h2> 
+<div align = "left">
+  <p><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><!--<img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105"><img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105">--></p>
+</div>
 
 <br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skyline69&hide=contribs,prs,stars,starsshow_icons=true&theme=midnight-purple)
 <br>
