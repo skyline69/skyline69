@@ -15,6 +15,7 @@
 <br><br><br><br><br><br><br>
 <img align="right" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyline69&count_private=true&theme=midnight-purple" alt="Skyline69" />
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
 <a href="https://www.instagram.com/skyline.rno263/">
   <img align="right" alt="Skyline's Instagram" width="24px" src="https://img.icons8.com/nolan/96/instagram-new.png" />
 </a>
