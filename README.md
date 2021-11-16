@@ -12,7 +12,7 @@
 </div>
 <br><img align="left" width=300 src="https://c.tenor.com/dM9di4D--lAAAAAd/nissan-r34.gif" alt="Skylinee"/>
 <img align="right" width=500 src="https://github-readme-stats.vercel.app/api?username=skyline69&hide=contribs,prs,stars,starsshow_icons=true&theme=midnight-purple"   alt="Skyline69">
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <img align="right" width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyline69&count_private=true&theme=midnight-purple" alt="Skyline69" />
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br>
