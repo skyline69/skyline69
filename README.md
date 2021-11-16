@@ -7,7 +7,7 @@
   <h4>- 🎓 &nbsp; Learning by myself. In the future, i will study Computer Science.</h4>
   
 <h2> 🔥 &nbsp;Currently working on </h3>
-  <h4> -🟪 Skyline's Selfbot (for Discord) </h4>
+  <h4> - 🟪 Skyline's Selfbot (for Discord) </h4>
   <h4> - 🤫 Secret Projects </h4>
 </div>
 <br><img align="left" width=300 src="https://c.tenor.com/dM9di4D--lAAAAAd/nissan-r34.gif" alt="Skylinee"/>
