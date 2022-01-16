@@ -3,7 +3,7 @@
 <div align = "left">
   <h2> 💻 &nbsp;About Me </h3>
   <img align="right" height="250px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-  <h4>- 🤔 &nbsp; I am a programmer, that has a lot of knowledge in Python, Javascript and C#.</h4>
+  <h4>- 🤔 &nbsp; I am a programmer, that has a lot of knowledge in Python, Javascript, HTML5, CSS3, Node JS and Electron JS.</h4>
   <h4>- 🎓 &nbsp; Learning by myself. In the future, i will study Computer Science.</h4>
   
 <h2> 🔥 &nbsp;Currently working on </h3>
