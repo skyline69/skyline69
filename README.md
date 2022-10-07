@@ -13,4 +13,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=skyline69&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-[![](https://visitcount.itsvg.in/api?id=skyline69&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=skyline69&icon=0&color=1)
