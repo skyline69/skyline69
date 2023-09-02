@@ -1,5 +1,5 @@
 # 💫 About Me
-🔭 I’m currently working on: Different Web-Projects 🌐<br>🌱 I’m currently learning: C++🔵 and Java🟠 <br>✨ My future plans are: Getting a Software Engineering Degree 🎓
+🔭 I’m currently working on: Different Web-Projects 🌐<br>🌱 I’m currently practising: Rust🟠 <br>✨ My future plans are: Getting a Software Engineering Degree 🎓
 
 
 ## 🌐 Socials
